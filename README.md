@@ -48,6 +48,9 @@ Megacmd is a command-line tool for performing file and directory transfer betwee
 
 ### How to obtain megacmd ?
 
+#### Dependencies ?
+    $ sudo apt-get install golang-go git
+
 #### Compile from source
 
     $ make
